@@ -1,12 +1,12 @@
 import React, { useEffect, useState } from 'react'
 import BookCards from '../components/BookCards';
 
-const BestSellerBooks = () => {
+const OtherBooks = () => {
   return (
     <div>
-      <BookCards books={"Book1"} headline={"Best Seller Books"}/>
+      <BookCards books={"Book1"} headline={"Other Books"}/>
     </div>
   )
 }
 
-export default BestSellerBooks
+export default OtherBooks

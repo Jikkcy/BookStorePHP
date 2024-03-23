@@ -45,7 +45,7 @@ const BookCards = ({headline, books}) => {
         <SwiperSlide>
           <div className='relative'>
             <img src='src/assets/banner-books/book1.png' alt=''></img>
-            <div className='absolute top-3 right-3 bg-blue-600 hover:bg-black p-2 rounded'>
+            <div className='absolute top-3 right-3 bg-blue-600 hover:bg-black p-2 rounded lg:right-20'>
               <FaCartShopping className='w-4 h-4 text-white'></FaCartShopping>
             </div>
           </div>
@@ -60,7 +60,7 @@ const BookCards = ({headline, books}) => {
         <SwiperSlide>
           <div className='relative'>
             <img src='src/assets/banner-books/book2.png' alt=''></img>
-            <div className='absolute top-3 right-3 bg-blue-600 hover:bg-black p-2 rounded'>
+            <div className='absolute top-3 right-3 bg-blue-600 hover:bg-black p-2 rounded lg:right-20'>
               <FaCartShopping className='w-4 h-4 text-white'></FaCartShopping>
             </div>
           </div>
@@ -75,7 +75,7 @@ const BookCards = ({headline, books}) => {
         <SwiperSlide>
           <div className='relative'>
             <img src='src/assets/banner-books/book3.png' alt=''></img>
-            <div className='absolute top-3 right-3 bg-blue-600 hover:bg-black p-2 rounded'>
+            <div className='absolute top-3 right-3 bg-blue-600 hover:bg-black p-2 rounded lg:right-20'>
               <FaCartShopping className='w-4 h-4 text-white'></FaCartShopping>
             </div>
           </div>
@@ -90,7 +90,7 @@ const BookCards = ({headline, books}) => {
         <SwiperSlide>
           <div className='relative'>
             <img src='src/assets/banner-books/book4.png' alt=''></img>
-            <div className='absolute top-3 right-3 bg-blue-600 hover:bg-black p-2 rounded'>
+            <div className='absolute top-3 right-3 bg-blue-600 hover:bg-black p-2 rounded lg:right-20'>
               <FaCartShopping className='w-4 h-4 text-white'></FaCartShopping>
             </div>
           </div>
@@ -105,7 +105,7 @@ const BookCards = ({headline, books}) => {
         <SwiperSlide>
           <div className='relative'>
             <img src='src/assets/banner-books/book5.png' alt=''></img>
-            <div className='absolute top-3 right-3 bg-blue-600 hover:bg-black p-2 rounded'>
+            <div className='absolute top-3 right-3 bg-blue-600 hover:bg-black p-2 rounded lg:right-20'>
               <FaCartShopping className='w-4 h-4 text-white'></FaCartShopping>
             </div>
           </div>
@@ -120,7 +120,7 @@ const BookCards = ({headline, books}) => {
         <SwiperSlide>
           <div className='relative'>
             <img src='src/assets/banner-books/book4.png' alt=''></img>
-            <div className='absolute top-3 right-3 bg-blue-600 hover:bg-black p-2 rounded'>
+            <div className='absolute top-3 right-3 bg-blue-600 hover:bg-black p-2 rounded lg:right-20'>
               <FaCartShopping className='w-4 h-4 text-white'></FaCartShopping>
             </div>
           </div>
@@ -135,7 +135,7 @@ const BookCards = ({headline, books}) => {
         <SwiperSlide>
           <div className='relative'>
             <img src='src/assets/banner-books/book4.png' alt=''></img>
-            <div className='absolute top-3 right-3 bg-blue-600 hover:bg-black p-2 rounded'>
+            <div className='absolute top-3 right-3 bg-blue-600 hover:bg-black p-2 rounded lg:right-20'>
               <FaCartShopping className='w-4 h-4 text-white'></FaCartShopping>
             </div>
           </div>

@@ -35,7 +35,7 @@ const Navbar = () => {
         {link: "Blog", path: "/blog"}
     ]
   return (
-    <header className='w-full bg-transparent fixed top-0 left-0 right-0 transition-all ease-in duration-300'>
+    <header className='w-full bg-transparent top-0 left-0 right-0 transition-all ease-in duration-300 fixed z-10'>
         <nav className={`py-4 lg:px-24 px-4 ${isSticky ? "sticky top-0 left-0 right-0 bg-blue-300" : ""}`}>
             <div className='justify-between md:flex items-center text-base gap-8'>
                 <Link to='/' className='text-2xl font-bold text-blue-700 flex items-center gap-2'><FaBlog className=' inline-block'/>Books</Link>
